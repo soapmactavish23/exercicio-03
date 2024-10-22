@@ -1,4 +1,4 @@
-# Exercício 02 - Sorveteria - Sistema de Pedidos Usando o Padrão Decorator
+# Exercício 03 - Software de Textos e usando o padrão Decorator
 
 <img src="./prints/diagrama.png" align="center">
 
